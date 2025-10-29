@@ -1,4 +1,4 @@
-![Screenshot_29-10-2025_135033_127 0 0 1](https://github.com/user-attachments/assets/b1ed9db2-386e-4f5e-9fc8-aa8324dee83d)# 🛍️ Shopping Website  
+# 🛍️ Shopping Website  
 
 A responsive and modern **shopping website** built using **HTML, CSS, and JavaScript**.  
 This project showcases an elegant UI for browsing products, viewing details, and experiencing an interactive online shopping flow.  
@@ -11,8 +11,8 @@ This project showcases an elegant UI for browsing products, viewing details, and
 <p float="left">
   <img src="./screenshots/home.png" width="45%" />
   <img src="./screenshots/products.png" width="45%" 
-  ![Screenshot_29-10-2025_135133_127 0 0 1](https://github.com/user-attachments/assets/55d24e27-ff62-4623-84bc-e7af35fbba05)
-/>
+  ![Screenshot_29-10-2025_135033_127 0 0 1](https://github.com/user-attachments/assets/b1ed9db2-386e-4f5e-9fc8-aa8324dee83d)
+  />
 </p>
 
 ### 🛒 Product Details & Cart  
