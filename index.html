@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Responsive Shopping Website</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Digitronix</h1>
+            <nav>
+                <ul>
+            <li><a href="#products">Products</a></li>
+            <li><a href="cart.html">Cart (<span id="cart-count">0</span>)</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="products" class="container">
+            <h2>Products</h2>
+            <div class="search-container">
+                <span class="search-icon">&#128269;</span>
+                <input type="text" id="search-input" placeholder="Search products..." />
+            </div>
+            <div id="product-list" class="product-list">
+                <!-- Products will be dynamically inserted here -->
+            </div>
+
+            <!-- Modal for product details -->
+            <div id="product-modal" class="modal">
+                <div class="modal-content">
+                    <span id="modal-close" class="modal-close">&times;</span>
+                    <img id="modal-image" src="" alt="Product Image" />
+                    <h3 id="modal-name"></h3>
+                    <p id="modal-description"></p>
+                    <div id="modal-price" class="price"></div>
+                    <!-- Removed Add to Cart button as per user request -->
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Digitronix. All rights reserved.</p>
+            <p>Address: 123 Tech Street, Silicon Valley, CA</p>
+            <p>Contact Number: +1 234 567 890</p>
+            <p>Email: support@digitronix.com</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
