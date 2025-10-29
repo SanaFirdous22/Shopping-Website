@@ -8,19 +8,13 @@ This project showcases an elegant UI for browsing products, viewing details, and
 ## 📸 Screenshots  
 
 ### 🏠 Home Page  
-<p float="left">
-  <img src="./screenshots/home.png" width="45%" />
-  <img src="./screenshots/products.png" width="45%" 
-  ![Screenshot_29-10-2025_135033_127 0 0 1](https://github.com/user-attachments/assets/b1ed9db2-386e-4f5e-9fc8-aa8324dee83d)
-  />
-</p>
+
+![Screenshot_29-10-2025_135033_127 0 0 1](https://github.com/user-attachments/assets/eb6684d3-bf87-4921-ba60-86e101670d11)
 
 ### 🛒 Product Details & Cart  
-<p float="left">
-  <img src="./screenshots/product-details.png" width="45%" />
-  <img src="./screenshots/cart.png" width="45%" />
-</p>
 
+
+![Screenshot_29-10-2025_135133_127 0 0 1](https://github.com/user-attachments/assets/0eaffab7-9396-4c17-9faa-e1ec4b68b0ac)
 
 ---
 
