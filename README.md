@@ -24,18 +24,17 @@ This project showcases an elegant UI for browsing products, viewing details, and
 - 🛒 **Add to Cart / Remove from Cart**  
 - 🧾 **Product Listing & Filtering**  
 - 🔍 **Search Bar for Products**  
-- 💖 **Wishlist Feature (optional)**  
 - 📱 **Mobile-Friendly Design**
 
 ---
 
 ## 🧰 Tech Stack  
 
-| Frontend | Tools / Libraries |
-|-----------|-------------------|
-| HTML5 | Local Storage |
-| CSS3 | Font Awesome Icons |
-| JavaScript (Vanilla JS) | Google Fonts |
+| Frontend | 
+|-----------|
+| HTML5 |
+| CSS | 
+| JavaScript |
 
 
 
